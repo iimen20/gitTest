@@ -8242,11 +8242,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iment\\source\\repos\\batta\\batta\\batta.csproj",
+      "projectUniqueName": "C:\\Users\\iment\\Source\\Repos\\iimen20\\gitTest\\batta\\batta.csproj",
       "projectName": "batta",
-      "projectPath": "C:\\Users\\iment\\source\\repos\\batta\\batta\\batta.csproj",
+      "projectPath": "C:\\Users\\iment\\Source\\Repos\\iimen20\\gitTest\\batta\\batta.csproj",
       "packagesPath": "C:\\Users\\iment\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iment\\source\\repos\\batta\\batta\\obj\\",
+      "outputPath": "C:\\Users\\iment\\Source\\Repos\\iimen20\\gitTest\\batta\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

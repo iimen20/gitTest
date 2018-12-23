@@ -7,5 +7,6 @@ namespace batta
 {
     public class weza
     {
+        int i = 0;        
     }
 }
